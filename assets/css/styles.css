@@ -135,6 +135,7 @@ footer {
 }
 
 /* media query for mobile*/
+
 @media (max-width: 600px) {
   body {
     font-family: Arial, sans-serif;
@@ -187,6 +188,7 @@ footer {
     flex-direction: column;
   }
 }
+
 /* for desktop*/
 
 @media (min-width: 1025px) {
