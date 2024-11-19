@@ -129,11 +129,9 @@ footer {
     font-size: large;
   }
 }
-<<<<<<< HEAD
-=======
-.sec{
-    position: relative;
-    left: 100px ;
+.sec {
+  position: relative;
+  left: 100px;
 }
 
 /* media query for mobile*/
@@ -196,4 +194,3 @@ footer {
     font-size: large;
   }
 }
->>>>>>> 8e170b35c06142f99d7dcdbc6acdcab857749f28
